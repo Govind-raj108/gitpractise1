@@ -1,1 +1,5 @@
 hi everyone how are you guys
+step1: $ git init
+$ git add program1.txt
+$ git commit-m "my first git"
+
